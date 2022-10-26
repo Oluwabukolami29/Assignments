@@ -1,0 +1,22 @@
+
+body{
+    background: #fff;
+  }
+  .Register{
+    background: #dca2cd;
+    padding:40px;
+    width:250px;
+    margin-top:90px;
+    margin-left:180px;
+    margin:0 auto;
+    
+  }
+  form{
+    width:240px;
+    text-align:center;
+    margin-top:-10;
+  }
+  input{
+    text-align:center;
+  }
+  
